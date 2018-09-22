@@ -15,6 +15,8 @@ import { Record, define, Collection } from 'type-r'
     static Collection = SimpleCollection
     static attributes = {
         pos: Number.has.value(0)
+	.check(x=>x, 'required')
+	.check(function(){ })
     }
 }
 
