@@ -32,7 +32,7 @@
     "react-mvx": "^2.0.4",
     "ts-loader": "^5.1.1",
     "type-r": "^2.1.8",
-    "typescript": "2.6.2",
+    "typescript": "2.8.4",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0"
   }
