@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module":"es6",
+    "jsx": "react",
+    "declaration": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "./lib",
+    "noImplicitAny": false,
+    "removeComments":true,
+    "experimentalDecorators": true
+  }
+}
